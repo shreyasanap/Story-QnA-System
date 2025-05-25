@@ -1,4 +1,4 @@
-# 🤡 Funny Story QA Bot with Gemini + RAG
+# Funny Story QA Bot with Gemini + RAG
 
 A witty Retrieval-Augmented Generation (RAG) chatbot that answers your questions using context from classic stories (in vector form!) and responds in a funny, sarcastic tone using Google’s Gemini API. It even shows you a relevant image to go with the answer!
 
