@@ -19,3 +19,9 @@ A witty Retrieval-Augmented Generation (RAG) chatbot that answers your questions
 - `Streamlit` (optional GUI)
 - `Python` 3.9+
 
+### Output:
+![Output](https://github.com/user-attachments/assets/2900d584-ea1b-4c4c-8a68-82dd01f392cb)
+
+### When you ask it anything random, it answers with ‘I don’t know’ 
+![idk](https://github.com/user-attachments/assets/c3f4dce1-095f-4c42-9762-552067ff8c8f)
+
